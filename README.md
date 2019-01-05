@@ -1,3 +1,12 @@
+
+# Readme
+
+* The original gem is located at https://github.com/amatsuda/nested_scaffold
+* I created this fork as the original gem had 3 pending pull requests
+* I will delete this repository once/if the pull requests are accepted into the original gem (or better improvements are implemented there)
+
+-------------------------------------
+
 # nested_scaffold
 
 A scaffold command that generates a set of perfectly working nested resource for Rails 4.2 and 5.
